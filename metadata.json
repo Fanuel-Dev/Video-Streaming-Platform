@@ -1,0 +1,11 @@
+{
+  "name": "Video Streaming Platform",
+  "description": "A secure video streaming platform with real-time adaptive bitrate switching, offline downloads, playback analytics, and synchronized watch history.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
