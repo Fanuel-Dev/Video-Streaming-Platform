@@ -47,27 +47,27 @@ The architecture combines adaptive bitrate streaming simulation with a robust br
 <div align="center">
 
 ### 1. Catalog & Adaptive Bitrate Player Diagnostic
-![Adaptive Bitrate Streaming Catalog](./docs/screenshots/catalog-view.png)
+![Adaptive Bitrate Streaming Catalog](photo1.png)
 
 ---
 
 ### 2. Live Watch Room & Real-Time Chat
-![WebRTC Multi-Peer Live Room](./docs/screenshots/live-room-session.png)
+![WebRTC Multi-Peer Live Room](photo2.png)
 
 ---
 
 ### 3. Community Live Rooms Directory
-![Live Rooms Directory](./docs/screenshots/live-rooms-directory.png)
+![Live Rooms Directory](photo3.png)
 
 ---
 
 ### 4. Real-Time Analytics & Telemetry Dashboard
-![Real-Time Analytics Dashboard](./docs/screenshots/analytics-dashboard.png)
+![Real-Time Analytics Dashboard](photo4.png)
 
 ---
 
 ### 5. Offline Media Vault (IndexedDB Sandbox)
-![Offline Vault Download Manager](./docs/screenshots/offline-vault.png)
+![Offline Vault Download Manager](photo5.png)
 
 </div>
 
