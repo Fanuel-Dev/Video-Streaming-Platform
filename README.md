@@ -97,3 +97,23 @@ npm v9.0.0 or higher
 git clone [https://github.com/Fanuel-Dev/video-streaming-platform.git](https://github.com/Fanuel-Dev/video-streaming-platform.git)
 cd video-streaming-platform
 
+2. Install Dependencies
+# Install root, client, and server dependencies
+npm run install-all
+
+3. Environment Setup
+Create a .env file in the root directory:
+
+PORT=5000
+NODE_ENV=development
+CLIENT_URL=http://localhost:3000
+
+4. Start Development Server
+
+# Starts both frontend (React) and backend (Express/Socket.io) concurrently
+npm run dev
+
+# Starts both frontend (React) and backend (Express/Socket.io) concurrently
+npm run dev
+
+Navigate to http://localhost:3000 in your web browser.
